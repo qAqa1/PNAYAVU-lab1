@@ -1,0 +1,14 @@
+D:\Программирование c#\version control system\version control system\bin\Debug\version control system.exe.config
+D:\Программирование c#\version control system\version control system\bin\Debug\version control system.exe
+D:\Программирование c#\version control system\version control system\bin\Debug\version control system.pdb
+D:\Программирование c#\version control system\version control system\obj\Debug\version control system.csprojResolveAssemblyReference.cache
+D:\Программирование c#\version control system\version control system\obj\Debug\version control system.csproj.CoreCompileInputs.cache
+D:\Программирование c#\version control system\version control system\obj\Debug\version control system.exe
+D:\Программирование c#\version control system\version control system\obj\Debug\version control system.pdb
+C:\Users\Администратор\Desktop\version control system\version control system\bin\Debug\version control system.exe.config
+C:\Users\Администратор\Desktop\version control system\version control system\bin\Debug\version control system.exe
+C:\Users\Администратор\Desktop\version control system\version control system\bin\Debug\version control system.pdb
+C:\Users\Администратор\Desktop\version control system\version control system\obj\Debug\version control system.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\version control system\version control system\obj\Debug\version control system.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\version control system\version control system\obj\Debug\version control system.exe
+C:\Users\Администратор\Desktop\version control system\version control system\obj\Debug\version control system.pdb
